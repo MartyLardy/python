@@ -1,0 +1,1 @@
+A Series of Notes to remind me of RegEx for Python
