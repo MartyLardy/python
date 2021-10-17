@@ -1,0 +1,1 @@
+this is a series of notes that i have taken regarding the introduction of Python. 
